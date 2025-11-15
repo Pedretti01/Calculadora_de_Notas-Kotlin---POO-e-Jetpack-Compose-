@@ -1,10 +1,13 @@
 Raphael Pedretti da Silva - DSM5 - 2025/2
 
-Instruções:
+--------------------------------------------
+
+  Instruções:
 
 Desenvolva uma aplicação em Kotlin que utilize Programação Orientada a Objetos (POO) e Jetpack Compose para gerenciar as notas de um aluno.
 
 Requisitos Funcionais:
+
 
   A aplicação deve permitir ao usuário:
   
@@ -19,6 +22,7 @@ Requisitos Funcionais:
       ➢ Reprovado: Média < 6.0 
       ➢ Aprovado: Média ≥ 6.0 e ≤ 9.0 
       ➢ Ótimo Aproveitamento: Média > 9.0 
+      
 
 Requisitos Técnicos Obrigatórios: 
 
